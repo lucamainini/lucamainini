@@ -1,0 +1,17 @@
+# Hi there
+
+> 👋 Hi, I’m Luca Mainini, a `Mathematical Engineering student` at Politecnico di Milano and CentraleSupélec
+
+
+- 👀 I’m interested in Applied Statistics, Machine Learning and Deep Learning
+- 🌱 I’m currently working on a project on Online Learning Applications
+
+📫 **How to reach me:**
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luca-mainini/)
+- `luca1.mainini@mail.polimi.it`
+
+
+<!---
+lucamainini/lucamainini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
