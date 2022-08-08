@@ -1,7 +1,8 @@
 # Hi there 👋
 
-> I’m Luca Mainini, a `Mathematical Engineering student` at Politecnico di Milano and CentraleSupélec
+> I’m Luca Mainini, a `Mathematical Engineering student` at Politecnico di Milano (Milan, IT) and CentraleSupélec (Paris Region, FR)
 
+I am currently pursuing Master of Science's degree in Mathematical Engineering, with emphasis on Statistical and Machine Learning.
 
 - 👀 I’m interested in Applied Statistics, Machine Learning and Deep Learning
 - 🌱 I’m currently working on a project on Online Learning Applications
