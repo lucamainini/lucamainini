@@ -1,6 +1,6 @@
-# Hi there
+# Hi there 👋
 
-> 👋 Hi, I’m Luca Mainini, a `Mathematical Engineering student` at Politecnico di Milano and CentraleSupélec
+> I’m Luca Mainini, a `Mathematical Engineering student` at Politecnico di Milano and CentraleSupélec
 
 
 - 👀 I’m interested in Applied Statistics, Machine Learning and Deep Learning
