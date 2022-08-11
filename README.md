@@ -6,6 +6,7 @@ I am currently pursuing a Master of Science's degree in Mathematical Engineering
 
 - 👀 I’m interested in Applied Statistics, Machine Learning and Deep Learning
 - 🌱 I’m currently working on a project on Online Learning Applications
+- 🌍 I love travelling and learning new languages
 
 📫 **How to reach me:**
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luca-mainini/)
