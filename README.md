@@ -12,8 +12,15 @@ I am currently pursuing a Master of Science's degree in Mathematical Engineering
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luca-mainini/)
 - `luca1.mainini@mail.polimi.it`
 
+<p align="center" style="font-weight:bold"> 🔨 <b> More Interesting Projects I worked on </b> <p>
+
+---
+* [`CCLE`](https://github.com/lucamainini/GENOME-BASED-PREDICTION): Genome-based prediction of breast cancer cell response
+* [`Multivariate-Time-Series-Forecasting`](https://nnethercott.github.io/natenethercott/index.html) through deep learning models with different structures based on LSTM and GRU, and Transformers
+* [`Leaf Classification`](https://github.com/lucamainini/Leaf-Classification) using artificial neural networks
+
+
 
 <!---
 lucamainini/lucamainini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
