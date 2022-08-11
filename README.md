@@ -16,7 +16,7 @@ I am currently pursuing a Master of Science's degree in Mathematical Engineering
 
 ---
 * [`CCLE`](https://github.com/lucamainini/GENOME-BASED-PREDICTION): Genome-based prediction of breast cancer cell response
-* [`Multivariate-Time-Series-Forecasting`](https://nnethercott.github.io/natenethercott/index.html) through deep learning models with different structures based on LSTM and GRU, and Transformers
+* [`Multivariate-Time-Series-Forecasting`](https://nnethercott.github.io/natenethercott/index.html) through deep learning models with different structures based on LSTM, GRU, and Transformers
 * [`Leaf Classification`](https://github.com/lucamainini/Leaf-Classification) using artificial neural networks
 
 
