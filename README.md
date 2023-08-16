@@ -12,7 +12,7 @@ I am currently pursuing a Master of Science's degree in Mathematical Engineering
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luca-mainini/)
 - `luca1.mainini@mail.polimi.it`
 
-<p align="center" style="font-weight:bold"> 🔨 <b> More Interesting Projects I worked on </b> <p>
+<p align="center" style="font-weight:bold"> 🔨 <b> Interesting Projects I worked on </b> <p>
 
 ---
 * [`Bayesian Mixture Model For Environmetal Application`](https://github.com/gabrielecorbo/Bayesian-mixture-model-for-environmental-application): Bayesian clustering of PM10 concentartion time-series, using Dirichlet process mixture models.
