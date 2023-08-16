@@ -17,6 +17,8 @@ I am currently pursuing a Master of Science's degree in Mathematical Engineering
 ---
 * [`Bayesian Mixture Model For Environmetal Application`](https://github.com/gabrielecorbo/Bayesian-mixture-model-for-environmental-application): Bayesian clustering of PM10 concentartion time-series, using Dirichlet process mixture models.
 * [`CCLE`](https://github.com/lucamainini/GENOME-BASED-PREDICTION): Genome-based prediction of breast cancer cell response
+* [`Dynamic pricing strategy for an e-commerce`](https://github.com/aygalic/OLA_Project) through multi-armed bandit algorithms
+* [`A non-parametric analysis on Honey Bee Health`](https://github.com/eugeniovaretti/honeybeehealth) evaluation of factors and strategies to mitigate colony loss in the US
 * [`Multivariate Time Series Forecasting`](https://github.com/lucamainini/Multivariate-Time-Series-Forecasting) through deep learning models with different structures based on LSTM, GRU, and Transformers
 * [`Leaf Classification`](https://github.com/lucamainini/Leaf-Classification) using artificial neural networks
 
