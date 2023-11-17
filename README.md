@@ -5,7 +5,7 @@
 I am currently pursuing a Master of Science's degree in Mathematical Engineering, with emphasis on Statistical and Machine Learning. I studied at CentraleSupélec - Université Paris-Saclay between 2019 and 2021 under an international Double Degree program. Before this, I completed my bachelor's degree at Polimi in the field of Mathematical Engineering.
 
 - 👀 I’m interested in Applied Statistics, Machine Learning and Deep Learning
-- 🌱 I’m currently working as Data Science intern at Schindler
+- 🌱 I’m currently working as Credit Risk Analyst intern at American Express
 - 🌍 I love travelling and learning new languages
 
 📫 **How to reach me:**
