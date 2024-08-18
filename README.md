@@ -1,16 +1,16 @@
 # Hi there 👋
 
-> I’m Luca Mainini, a `Mathematical Engineering student` at Politecnico di Milano (Milan, IT) and CentraleSupélec (Paris Region, FR)
-
-I am currently pursuing a Master of Science's degree in Mathematical Engineering, with emphasis on Statistical and Machine Learning. I studied at CentraleSupélec - Université Paris-Saclay between 2019 and 2021 under an international Double Degree program. Before this, I completed my bachelor's degree at Polimi in the field of Mathematical Engineering.
+> I’m Luca Mainini and I work as a Data Scientist at Schindler Group. 
+I am a Mathematical Engineer, recently graduated from CentraleSupélec, Université Paris-Saclay. I hold a MSc degree from Politecnico di Milano, specializing in Statistical and Machine Learning.
+My expertise lies in data analysis and AI, with previous internships at Amazon, Schindler, and American Express.
 
 - 👀 I’m interested in Applied Statistics, Machine Learning and Deep Learning
-- 🌱 I’m currently working as Credit Risk Analyst intern at American Express
+- 🌱 I’m currently working on Predictive Maintenance and Energy Estimation at Schindler Group
 - 🌍 I love travelling and learning new languages
 
 📫 **How to reach me:**
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luca-mainini/)
-- `luca1.mainini@mail.polimi.it`
+- `luca.mainini.98@gmail.com`
 
 <p align="center" style="font-weight:bold"> 🔨 <b> Interesting Projects I worked on </b> <p>
 
